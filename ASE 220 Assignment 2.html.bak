@@ -10,17 +10,17 @@
 
     <title>A pet shelter management application</title>
   </head>
-  <body>
-	    <div class="container text-center">
-            <div class="row">
+  <body class="bg-dark">
+	  <div class="container text-center bg-dark">
+        <div class="row">
                 <div class="col-sm">
                     <div class="card" style="width: 18rem;">
                        <img class="card-img-top" src= "images\beagle-dog.jpg" alt="Beagle Dog">
                          <div class="card-body">
-                          <p class="card-name">Name: Charile</p>
+                          <p class="card-name">Name: Baxter</p>
                           <p class="card-type">Type: Dog</p>
-	                      <p class="card-age"><font color=purple>Age: 5 years</p></font>
-                          <p class="card-gender"><font color=green>Gender: Male</p></font>
+	                      <p class="card-age">Age: 5 years</p>
+                          <p class="card-gender bg-info">Gender: Male</p>
                           <a href="Beagle Dog.html" class="btn btn-primary">Learn More</a>
                          </div>
                     </div>
@@ -29,10 +29,10 @@
 				  <div class="card" style="width: 18rem;">
 					 <img class="card-img-top" src="images\maine-coon-cat.jpg" alt="Maine Coon">
 						<div class="card-body">
-						   <p class="card-name">Name: Amelia</p>
+						   <p class="card-name">Name: Luna</p>
 						   <p class="card-type">Type: Cat</p>
-						   <p class="card-age"><font color=purple>Age: 3 years</p></font>
-						   <p class="card-gender"><font color=red>Gender: Female</p></font>
+						   <p class="card-age">Age: 3 years</p>
+						   <p class="card-gender bg-danger">Gender: Female</p>
 						   <a href="Maine Coon.html" class="btn btn-primary">Learn More</a>
 						</div>
 				  </div>
@@ -41,16 +41,16 @@
 			   <div class="card" style="width: 18rem;">
 				  <img class="card-img-top" src="images\Golden-Retriever-dog.jpg" alt="Golden Retriever Dog">
 					 <div class="card-body">
-					    <p class="card-name">Name: Gracie</p>
+					    <p class="card-name">Name: Sandy</p>
 						<p class="card-type">Type: Dog</p>
-						<p class="card-age"><font color=purple>Age: 7 years</p></font>
-						<p class="card-gender"><font color=red>Gender: Female</p></font>
+						<p class="card-age">Age: 7 years</p>
+						<p class="card-gender bg-danger">Gender: Female</p>
 						<a href="Golden Retriever.html" class="btn btn-primary">Learn More</a>
 					 </div>
 			   </div>
 		    </div>
-		</div>
-</div>
+	   </div>
+  </div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
