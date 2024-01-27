@@ -23,7 +23,7 @@
 					</ul>
 					<p><strong>A Little Bit About Me:</strong><br>Sandy is a heartwarming Golden Retriever with a golden coat as bright as her personality. Rescued from a neglectful situation, she has shown incredible resilience and love for life. Sandy is great with children and other pets, making her an ideal family dog. She enjoys outdoor adventures, especially swimming and fetching. Sandy is looking for a forever home where she can spread her joy and love.</p>
 				</div>
-				<div class="col text-center">
+				<div class="col-sm text-center">
 				   <img class="rounded float-start img-fluid" src="images\Golden-Retriever-dog.jpg" alt="Golden Retriever Dog" width = "600" height = "400">
 				   <a href="ASE 220 Assignment 2.html" class="btn btn-primary">Return to Homepage</a>
 				</div>
