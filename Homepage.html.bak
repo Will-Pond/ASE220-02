@@ -45,7 +45,7 @@
 						<p class="card-type"style="font-family:Sofia">Type: Dog</p>
 						<p class="card-age bg-warning" style="font-family:Sofia">Age: 7 years</p>
 						<p class="card-gender bg-danger" style="font-family:Sofia">Gender: Female</p>
-						<a href="Golden Retriever.html" class="btn btn-primary" style="font-family:Sofia">Learn More</a>
+						<a href="Golden Retriever.html" class="btn btn-primary">Learn More</a>
 					 </div>
 			   </div>
 		    </div>
